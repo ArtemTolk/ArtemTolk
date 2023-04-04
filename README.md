@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtemTolk
 - 👀 I’m interested in DS
-- 🌱 I’m currently learning Python, SQL, Git
+- 🌱 I’m currently learning Python, SQL and tools for ML and DeepLearning
 - 💞️ I’m looking to collaborate on DS projects
 - 📫 How to reach me novtolk@gmail.com
 
