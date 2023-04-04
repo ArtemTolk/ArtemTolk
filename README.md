@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ArtemTolk
-- 👀 I’m interested in DS
-- 🌱 I’m currently learning Python, SQL and tools for ML and DeepLearning
-- 💞️ I’m looking to collaborate on DS projects
-- 📫 How to reach me novtolk@gmail.com
+- 👋 Hi, I’m Artem Tolkachev, "newbee" in DataScience
+- 👀 I’ve completed Yandex DS+ course in Feb, 23
+- 🌱 Currently learning Python, SQL and tools for ML and DeepLearning
+- 💞️ I’m looking for new opportunities and open to collaborate in DS projects
+- 📫 Welcome to contact me by novtolk@gmail.com
 
 <!---
 ArtemTolk/ArtemTolk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
