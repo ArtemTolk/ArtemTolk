@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artem Tolkachev, "newbee" in DataScience
 - 👀 I’ve completed Yandex DS+ course in Feb, 23
-- 🌱 Currently learning Python, SQL and tools for ML and DeepLearning
+- 🌱 Currently improoving skills in Python, SQL and tools for ML and DeepLearning
 - 💞️ I’m looking for new opportunities and open to collaborate in DS projects
 - 📫 Welcome to contact me by novtolk@gmail.com
 
